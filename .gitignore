@@ -1,0 +1,7 @@
+node_modules
+.env
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/iqbalhossainmohon/aircnc-server.git
+git push -u origin main
